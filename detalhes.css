@@ -1,0 +1,29 @@
+body {
+  background: #95afc0;
+}
+
+#header {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+#infos {
+  text-align: center;
+}
+
+#title {
+  text-align: center;
+}
+
+.links {
+  margin-top: 10px;
+  border-radius: 8px;
+  font-size: 15px;
+  padding: 8px;
+  background: #0097e6;
+  color: #f5f6fa;
+  display: inline-block;
+  margin: 4px;
+  text-decoration: none;
+}

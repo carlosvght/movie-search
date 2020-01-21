@@ -1,0 +1,49 @@
+body {
+  background: #95afc0;
+}
+
+#header {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 20px;
+}
+
+#section {
+  text-align: center;
+}
+
+#txt {
+  border-radius: 8px;
+  font-size: 15px;
+  padding: 8px;
+}
+
+#btn {
+  border-radius: 8px;
+  font-size: 15px;
+  padding: 8px;
+  background: #0097e6;
+  color: #f5f6fa
+}
+
+#poster {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 200px;
+}
+
+#filmes {
+  margin-top: 100px;
+}
+
+#img {
+  height: 250px;
+}
+
+#dtl {
+  text-decoration: none;
+  background: #0097e6;
+  color: #f5f6fa;
+  padding: 6px;
+  border-radius: 5px;
+}
